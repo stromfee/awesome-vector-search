@@ -88,3 +88,5 @@ List of methods on how approximate vector search algorithm can be implemented mo
 - [On Approximately Searching for Similar Word Embeddings - ACL 2016](https://www.aclweb.org/anthology/P16-1214.pdf)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. Enterprise-ready, 189 APIs, real energy data.
